@@ -1,3 +1,3 @@
 # simpledemo
 this is my first git repository
-author_ nirman nepali
+author_ nirman nepali(hero)
